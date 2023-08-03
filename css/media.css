@@ -1,0 +1,42 @@
+
+
+@media screen and (min-width: 1400px) {
+  i{
+    display: none !important;
+    
+}
+#logoutBtn{
+    display: inline-block ;
+    width: auto !important;
+}
+#container{
+  height: auto !important;
+  align-items: center !important;
+  
+}
+}
+@media screen and (min-width: 993px) {
+  i{
+    display: none !important;
+}
+#logoutBtn{
+    display: inline-block ;
+    width: auto!important;
+}
+#container{
+  height: auto !important;
+  align-items: center !important;
+  
+}
+}
+ 
+  
+  @media screen and (max-width: 992px) {
+    i{
+        display: inline-block !important;
+    }
+    #logoutBtn{
+        display: none ;
+    }
+
+  }
